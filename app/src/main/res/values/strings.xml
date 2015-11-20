@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecoveryNetWork</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_no_signal_strength">12</string>
+    <string name="signal_strength_spec">12</string>
+    <string name="app_spec">(effective for samsung Note 3)this is an app that can recovery you signalStrength after you have no signal for a long time.It\'s Beta Version.</string>
+</resources>
